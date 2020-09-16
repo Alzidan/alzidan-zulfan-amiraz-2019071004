@@ -1,0 +1,18 @@
+contoh 3
+konversikan suhu celcius ke suhu fahrenheit 
+rumus konversi suhu ke fahrenheit : (9/5)*c+32
+algoritma konversi suhu:
+algoritma:
+1. mendeklarasikan c dan f
+2. masukkan nilai c
+3. lihat nilai f
+4. f sama dengan 9 dibagi 5 dikalikan c dan ditambah 32
+4. keluarkan f sebagai output
+
+pseudocode:
+deklarasi
+var c, f
+input c
+read f
+f = 9 / 5 * c + 32
+write(f)
